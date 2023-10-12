@@ -1,0 +1,4 @@
+[database]
+name = "Database name"
+dsn = "databaseDSN"
+export_tables = ["table1", "table2", "table3", "etc"]
