@@ -1,3 +1,6 @@
 __pycache__
 *.zip
+*.ps1
+*.txt
 settings.toml
+.vscode
